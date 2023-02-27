@@ -1,4 +1,4 @@
-# DS
+# Data Science and Machine Learning 
 
 ## This is a repository that includes but not limited to [Scaler's DSML course](https://www.scaler.com/). 
 
