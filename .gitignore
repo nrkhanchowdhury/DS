@@ -2,6 +2,6 @@
 *.DS_Store
 
 #jupyter junk files
-.ipynb_checkpoints
+*.ipynb_checkpoints
 
 
